@@ -1,0 +1,4 @@
+/bin
+/lib
+pyvenv.cfg
+.server.py.swp
